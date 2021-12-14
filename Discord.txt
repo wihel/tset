@@ -1,0 +1,86 @@
+z/channel #채팅방이름
+z/message 채팅내용 
+markdown 사용가능
+z/once 이모티콘 @역할
+z/normal
+z/remove
+z/message
+
+;;join
+;;play ncs
+;;play pause
+;;play unpause
+;;skip
+;;leave
+
+Fly Me To The Moon (2008 Remastered)
+Fly me to the moon-Evangelion
+Jimmy Durante - Smile
+Leonard Cohen - Hallelujah
+L-O-V-E (Remastered) Nat King Cole
+Theme From New York, New York Frank Sinatra
+Don't Worry Be Happy Bobby McFerrin
+What A Wonderful World (Album Version) Louis Armstrong
+Sting - Englishman In New York
+Brain Diver (TV edit）
+Enemy (from the series Arcane League of Legends)
+Bea Miller - 'Playground' from ARCANE League of Legends // Lyrics [English]
+Get Jinxed (ft. Djerv) | Official Music Video - League of Legends
+Fate/Apocrypha Opening Full『EGOIST - Eiyuu Unmei no Uta』
+Super Shooter · RIP SLYME
+Fate Apocrypha Opening Full『EGOIST Eiyuu Unmei no Uta』
+Dungeon & Fighter OST - Wind Inside You┃Cover by Raon Lee
+[던파OST] It's My War Now (2021 ver.)
+2017 뮤지컬 '데스노트(Death Note)' MV_'They're Only Human(불쌍한 인간)' 박혜나, 강홍석
+cxlt. - Your Light
+Kainbeats - A Walk Through the Sky
+No Spirit - Happy Moments
+Barns Courtney - Sinners (Official Audio)
+Barns Courtney - Glitter & Gold (Official Video)
+Imagine Dragons - Radioactive
+
+
+포니 
+포켓몬
+
+keypair
+gcp
+헤로쿠
+
+
+Khaim - Somebody | Lo-Fi Type Beat
+おもちゃのダンス @ フリーBGM
+
+git-user-at-379608785948
+
+
+KPWSfuk/7RQ1XA4LuGdDdjq0qXu7UttuQmrWUf/wU8A=
+
+fatal: unable to access 
+The requested URL returned error: 403
+
+git init 
+ :git 생성
+git clone git_path
+ :코드가져오기
+git config --global user.name
+깃 이름 정의
+git config --global user.email
+이메일정의
+git status
+아직 담지 않은 파일 보기
+git add -a
+
+git commit -m "name"
+
+git add -all
+
+
+
+
+git commit -m "NAME"
+
+git status
+
+<닉네임 색상>
+
